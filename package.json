@@ -1,0 +1,20 @@
+{
+  "name": "apicreateexpressserver",
+  "version": "1.0.0",
+  "description": "uma api para dinheiro ficticio",
+  "main": "src/api.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ick958/apiExpress"
+  },
+  "author": "jelod <ickmschreiber@gmail.com>",
+  "license": "MIT"
+}
